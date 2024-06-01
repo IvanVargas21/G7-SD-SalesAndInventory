@@ -1,0 +1,53 @@
+/* login.css */
+.login-page {
+    width: 100%;
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #f7f7f7;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    height: auto;
+}
+  
+  .login-page .text-center {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .login-page h4 {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .login-page .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .login-page .form-group label {
+    font-size: 16px;
+  }
+  
+  .login-page .form-control {
+    font-size: 14px;
+    height: 65px;
+    border-radius: 5px;
+  }
+  
+  .login-page .btn {
+    width: 100%;
+    font-size: 16px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #ff5c5c;
+    border: none;
+    margin-top: 10px;
+  }
+  
+/* Logo Styles */
+.login-logo {
+    width: 50px; /* Set your desired width */
+    height: 50px; /* Maintain aspect ratio */
+    margin-bottom: 20px;
+  }
+  
